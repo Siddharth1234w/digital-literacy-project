@@ -35,4 +35,4 @@ This repository contains my Digital Literacy Portfolio, created for the CSE0001 
 
 ## 📄 Project Report
 * **Link:** [View Full Project Report](./report/Project_Report.pdf)
-* [cite_start]**Summary:** The comprehensive written report documenting the work, observations, and reflections for all five tasks[cite: 9, 14].
+* **Summary:** The comprehensive written report documenting the work, observations, and reflections for all five tasks.
